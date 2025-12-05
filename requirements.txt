@@ -6,3 +6,6 @@ networkx
 matplotlib
 numpy
 ipykernel
+plotly
+pandas
+kaleido
