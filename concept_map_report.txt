@@ -1,0 +1,243 @@
+================================================================================
+FAITHFUL CONCEPT MAP REPORT
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Concepts Extracted: 584
+Total Relationships Mapped: 590
+Average Concept Confidence: 0.731
+Average Relationship Confidence: 0.670
+
+TOP 20 CONCEPTS (by confidence)
+--------------------------------------------------------------------------------
+1. SUSTAINABILITY REPORT
+   Confidence: 1.000
+   Page: 1
+   Context: osys has adopted the Business Responsibility and 
+Sustainability Report (BRSR) for fiscal 2023 to pr...
+
+2. IV EMPLOYEES
+   Confidence: 1.000
+   Page: 4
+   Context: Infosys Integrated Annual Report 2022-23164
+IV Employees
+18....
+
+3. CS)BUSINESS RESPONSIBILITY
+   Confidence: 1.000
+   Page: 4
+   Context: ef Financial Officer (CFO) and Company Secretary (CS)Business Responsibility and Sustainability Repo...
+
+4. BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+   Confidence: 1.000
+   Page: 6
+   Context: Business Responsibility and Sustainability Report...
+
+5. CORPORATE 
+GOVERNANCE
+   Confidence: 1.000
+   Page: 8
+   Context: ard 2021, 
+UNGC Principles,  
+OECD-Principles 
+of Corporate 
+Governance,  
+UN SDGs, 
+National 
+Guide...
+
+6. CARBON 
+DISCLOSURE 
+PROJECT
+   Confidence: 1.000
+   Page: 8
+   Context: 2014, 
+ISO 45001,
+ISO22301,
+SASB,
+TCFD, UN 
+SDGs, Carbon 
+Disclosure 
+Project (CDP)ISO 9001, 
+GRI St...
+
+7. SASBBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+   Confidence: 1.000
+   Page: 8
+   Context: 1, GRI 
+Standard 2021,  
+ISO 27001,  
+ISO 27701, 
+SASBBusiness Responsibility and Sustainability Rep...
+
+8. VALUE CHAIN PARTNERS 2GOVERNANCE
+   Confidence: 1.000
+   Page: 12
+   Context: in partners covered 
+under the awareness programs
+Value chain partners 2Governance, ethics and compl...
+
+9. EXTENDED PRODUCER RESPONSIBILITY
+   Confidence: 1.000
+   Page: 13
+   Context: Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Y...
+
+10. THE INFYABILITY EMPLOYEE RESOURCE GROUP
+   Confidence: 1.000
+   Page: 16
+   Context: • The Infyability employee resource group  provides a great opportunity to strengthen commu...
+
+11. GENDERPERMANENT EMPLOYEES
+   Confidence: 1.000
+   Page: 16
+   Context: GenderPermanent employees – fiscal 2023 Permanent employees – fiscal 2022
+R...
+
+12. B)% (B / A)TOTAL EMPLOYEES
+   Confidence: 1.000
+   Page: 17
+   Context: gory, who 
+are part of 
+association(s) or 
+union (B)% (B / A)Total employees in 
+respective category...
+
+13. INDIABUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+   Confidence: 1.000
+   Page: 22
+   Context: al
+Includes only employees whose base location is IndiaBusiness Responsibility and Sustainability Re...
+
+14. NIL NIL
+TOTAL ENERGY CONSUMPTION
+   Confidence: 1.000
+   Page: 26
+   Context: 413 
+Energy consumption through other sources (C) Nil Nil
+Total energy consumption (A+B+C) 7, 50,986...
+
+15. GHG EMISSIONS
+   Confidence: 1.000
+   Page: 27
+   Context: ease provide details of air emissions (other than GHG emissions) by the entity, in the following for...
+
+16. SCOPE 2 EMISSIONS
+   Confidence: 1.000
+   Page: 27
+   Context:  details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity, in the follo...
+
+17. ENVIRONMENTAL 
+CLEARANCE
+   Confidence: 1.000
+   Page: 29
+   Context: web-link
+Grant of Environmental 
+clearance for modification of 
+existing B#1, B#2 & B#3 at E...
+
+18. YES YESHTTPS://WWW.INFOSYS.COM/
+SUSTAINABILITY/APPROVALS/
+DOCUMENTS/ENVIRONMENTAL-
+CLEARANCE-BLR-ECITY.PDF
+   Confidence: 1.000
+   Page: 29
+   Context: Yes Yeshttps://www.infosys.com/
+sustainability/approvals/
+documents/environmental-
+clearance-blr-eci...
+
+19. SURFACE WATER
+WASTE WATER
+   Confidence: 1.000
+   Page: 31
+   Context: ion and level of treatment (in kilolitres)
+(i) To Surface water
+Waste water generated is treated in ...
+
+20. SOCIAL IMPACT ASSESSMENTS
+   Confidence: 1.000
+   Page: 36
+   Context: Details of Social Impact Assessments (SIA) of projects undertaken by the entity based ...
+
+
+RELATIONSHIP TYPES DISTRIBUTION
+--------------------------------------------------------------------------------
+related: 297
+strongly_related: 133
+temporal: 80
+part_of: 65
+causal: 15
+
+
+SAMPLE RELATIONSHIPS (Top 10 by confidence)
+--------------------------------------------------------------------------------
+1. UN SDGS --[strongly_related]--> UN 
+SDGS
+   Confidence: 1.000
+   Evidence: ISO 9001, GRI 
+Standard 2021, 
+UNGC Principles,  
+OECD-Principles 
+of Corporate 
+Governance,  
+UN SDGs, 
+National 
+Guidelines on 
+Responsible 
+Busines...
+
+2. THE 
+GHG --[temporal]--> THE GHG
+   Confidence: 1.000
+   Evidence: Concepts share contextual terms: co2,, the, into, n2o,, ch4,...
+
+3. THE CORPORATE GOVERNANCE REPORT --[strongly_related]--> THE CORPORATE GOVERNANCE 
+REPORT
+   Confidence: 1.000
+   Evidence: Concepts share contextual terms: in, report., corporate, report, the...
+
+4. EMPLOYEES / WORKERS --[temporal]--> EMPLOYEES / 
+WORKERS
+   Confidence: 1.000
+   Evidence: Concepts share contextual terms: workers, /, total, of, employees...
+
+5. GRI 
+STANDARD --[strongly_related]--> GRI STANDARD
+   Confidence: 1.000
+   Evidence: ISO 9001, GRI 
+Standard 2021, 
+UNGC Principles,  
+OECD-Principles 
+of Corporate 
+Governance,  
+UN SDGs, 
+National 
+Guidelines on 
+Responsible 
+Busines...
+
+6. DIFFERENTLY-ABLED EMPLOYEES --[strongly_related]--> DIFFERENTLY-
+ABLED EMPLOYEES
+   Confidence: 1.000
+   Evidence: Both concepts appear on page 16...
+
+7. THIS INTEGRATED ANNUAL REPORT --[strongly_related]--> THIS INTEGRATED ANNUAL 
+REPORT
+   Confidence: 1.000
+   Evidence: Concepts share contextual terms: in, report., annual, this, integrated...
+
+8. THIS INTEGRATED ANNUAL REPORT --[strongly_related]--> THIS INTEGRATED ANNUAL REPORT
+   Confidence: 1.000
+   Evidence: Concepts share contextual terms: in, report., annual, this, integrated...
+
+9. THIS INTEGRATED ANNUAL 
+REPORT --[strongly_related]--> THIS INTEGRATED ANNUAL REPORT
+   Confidence: 1.000
+   Evidence: Both concepts appear on page 9...
+
+10. YES / NO --[strongly_related]--> YES 
+/ NO
+   Confidence: 1.000
+   Evidence: Both concepts appear on page 10...
+

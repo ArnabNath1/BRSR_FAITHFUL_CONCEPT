@@ -1,0 +1,8 @@
+PyPDF2
+sentence-transformers
+spacy
+scikit-learn
+networkx
+matplotlib
+numpy
+ipykernel

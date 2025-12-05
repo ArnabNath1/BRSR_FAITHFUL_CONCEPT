@@ -1,0 +1,41 @@
+================================================================================
+CONCEPT DRIFT ANALYSIS REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Pages Analyzed: 40
+Total Concepts: 584
+Average Concepts per Page: 14.60
+Average Confidence: 0.726
+Total Relationships: 590
+
+DRIFT ANALYSIS
+--------------------------------------------------------------------------------
+No significant confidence drift detected.
+
+CONCEPT DISCOVERY PEAKS
+--------------------------------------------------------------------------------
+Top 5 Pages with Most New Concepts:
+  Page 8: 42 new concepts
+  Page 6: 28 new concepts
+  Page 9: 28 new concepts
+  Page 21: 27 new concepts
+  Page 5: 22 new concepts
+
+RELATIONSHIP DENSITY ANALYSIS
+--------------------------------------------------------------------------------
+Average Relationship Density: 0.81 relations per concept
+
+Pages with High Relationship Density (>1.5x average):
+  Page 1: 2.08
+  Page 4: 1.40
+  Page 8: 1.26
+  Page 9: 2.14
+  Page 15: 1.70
+  Page 16: 1.41
+  Page 21: 2.04
+  Page 27: 1.28
+  Page 37: 2.68
+
+================================================================================
